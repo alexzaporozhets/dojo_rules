@@ -5,3 +5,4 @@ We found your "introduction.md" file, but it looks to be empty, or just too shor
 JavaScript
 * Git
 * Ruby
+* Killing history using git rebase
